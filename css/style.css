@@ -1,0 +1,10 @@
+html{background-color:#808080;}
+h1{color: white}
+
+#main section{color: black;}
+
+#square {
+	width: 100px;
+	height: 100px;
+	background-color:#fea500;	
+}
