@@ -1,10 +1,40 @@
-html{background-color:#808080;}
-h1{color: white}
+html {
+	background-color: #808080;
+}
 
-#main section{color: black;}
+h1 {
+	color: white
+}
 
-#square {
+#main section {
+	color: black;
+}
+
+
+.squareone {
 	width: 100px;
 	height: 100px;
-	background-color:#fea500;	
+	background-color: #fea500;
+	margin-bottom: 0,5cm; color: #808080;
+}
+
+.squaretwo {
+	width: 100px;
+	height: 100px;
+	background-color: #fea500;
+	margin-bottom: 0,5cm;
+}
+
+.squarethree {
+	width: 100px;
+	height: 100px;
+	background-color: #fea500;
+	margin-bottom: 0,5cm;
+}
+
+.squarefour {
+	width: 100px;
+	height: 100px;
+	background-color: #fea500;
+	margin-bottom: 0,5cm;
 }
