@@ -10,31 +10,10 @@ h1 {
 	color: black;
 }
 
-
-.squareone {
-	width: 100px;
-	height: 100px;
-	background-color: #fea500;
-	margin-bottom: 0,5cm; color: #808080;
-}
-
-.squaretwo {
-	width: 100px;
-	height: 100px;
-	background-color: #fea500;
-	margin-bottom: 0,5cm;
-}
-
-.squarethree {
-	width: 100px;
-	height: 100px;
-	background-color: #fea500;
-	margin-bottom: 0,5cm;
-}
-
-.squarefour {
-	width: 100px;
-	height: 100px;
-	background-color: #fea500;
-	margin-bottom: 0,5cm;
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    margin-bottom: 0.5cm; 
+    color: #808080;
 }
